@@ -1,0 +1,1 @@
+Making a recipe blog as practice for Odin Project. Hopefully I will learn enough to make a website that technically functions and is shareable, so I can move on to learning functional and aesthetic improvements.
